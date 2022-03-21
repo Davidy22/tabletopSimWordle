@@ -1,0 +1,2 @@
+<InputField width="900" height="200" position="0 0 30" rotation="0 180 180" onValueChanged="updateButtonText()" active="true" characterLimit="11" textAlignment="middleCenter" contentType="IntegerNumber" fontSize="130" placeholder="Seed" preferredHeight="50">setSeed</InputField>
+<Button id="submit" fontStyle="Bold" outline="#000000" onclick="setSeed()" position="0 220 30" color="Blue" width="400" height="80" rotation="0 180 180" fontSize ="900" resizeTextForBestFit="true" scale = "2 2 2">Reset</Button>

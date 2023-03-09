@@ -36,7 +36,7 @@ resetButton = {3,6}
 white = {1,1,1}
 yellow = {1,0.77,0}
 green = {0,1,0}
-red = {1,0,0}
+red = {0.5,0,1}
 
 answer = nil
 currentWord = {}
